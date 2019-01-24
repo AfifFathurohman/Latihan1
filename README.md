@@ -67,3 +67,25 @@ Menginstall GIT di Windows sangat mudah, cukup dengan mendownload dan menjalanka
 ![git add](https://user-images.githubusercontent.com/46735362/51682547-4297e480-201a-11e9-9ebd-5c997ee368a8.png)
 
 
+### **Langkah 4 - _Commit_ (Menyimpan Perubahan Ke Database)**
+
+1. Untuk menyimpan perubahan yang ada kedalan database repository local, gunakan perintah **git commit -m "Komentar Saya"
+
+```git commit -m "File Pertama Saya```
+
+Perubahan berhasil disimpan.
+
+![commit](https://user-images.githubusercontent.com/46735362/51683572-bc30d200-201c-11e9-8afa-2d5a9b1485a9.png)
+
+
+## **Langkah 5 - Membuat Repository Server**
+
+1. Server revository yang kita gunakan adalah http://github.com
+2. Anda harus membuat akun terlebih dahulu.
+3. Pada laman github pada menu (icon +) klik New Repository seperti, gambar dibawah
+
+
+![new repository](https://user-images.githubusercontent.com/46735362/51685501-0451f380-2021-11e9-8fa0-e3e91a7f7871.png)
+
+
+## **Langkah 6 - Melihat Hasil Pada Repository**
