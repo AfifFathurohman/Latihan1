@@ -1,3 +1,7 @@
+### **TUTORIAL CARA PENGGUNAAN GIT**
+
+    Assalamualaikum wr wb
+Disini saya akan memberikan **Tutorial Cara Penggunaan Git**. Sebelum mulai pada tutorial, saya akan menjelaskan tentang **GIT**
 ### **Apa itu GIT?**
 
 Pada tahun 2005, Linus Torvalds (orang yang membuat kernel Linux) membuat GIT dan sejak itu GIT secara aktif dikelola oleh Junio Hamano, programmer Jepang. Saat ini, GIT menjadi salah satu version control system yang paling terkenal dan ada jutaan project di seluruh dunia yang menggunakan GIT untuk version control nya (termasuk project komersil dan open source). GIT sepenuhnya gratis dan bisa di-download di Mac, Linux, Windows, dan Solaris, dari [website resminya](https://git-scm.com/downloads). Fitur-fitur unggulan dari GIT antara lain:
@@ -11,6 +15,7 @@ Pada tahun 2005, Linus Torvalds (orang yang membuat kernel Linux) membuat GIT da
 
 GIT sangat sederhana dalam penggunannya. Untuk memulai, Anda bisa membuat repository atau men-checkout yang sudah ada. Setelah instalasi, perintah ```git-init``` akan men-setup semuanya. Selain itu, perintah ```git clone bisa``` membuat salinan repository lokal untuk user.
 
+**Tutorial Cara Penggunaan GIT**
 
 ### **Langkah 1 – Install GIT**
 
@@ -89,3 +94,21 @@ Perubahan berhasil disimpan.
 
 
 ## **Langkah 6 - Melihat Hasil Pada Repository**
+
+1. Buka halaman utama github yang sudah login menggunakan akun anda.
+2. Klik icon profil github anda.
+3. Klik tulisan "Your Repositories"
+
+![rositori kamu](https://user-images.githubusercontent.com/46735362/51687058-4892c300-2024-11e9-922f-614e353983af.png)
+
+4. Ketika muncul tampilan baru.
+
+![latihan 1](https://user-images.githubusercontent.com/46735362/51687099-5a746600-2024-11e9-9414-d0b967a70808.png)
+
+5. Lalu klik File **Latihan1**
+6. Dan hasilnya sudah berubah.
+7. Selesai.
+
+
+Sekian **Tutorial Cara Penggunaan Git** dari saya, apabila ada kekurangan mohon di maafkan
+wassalammualakum wr wb
